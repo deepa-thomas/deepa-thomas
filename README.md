@@ -1,6 +1,7 @@
 ### Hi I am Deepa Thomas👋
 
 *I am Indian* 
+
 *I am currently living in Brussels*
 
 - 🔭 I’m a student at HackYourFuture
