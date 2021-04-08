@@ -1,4 +1,4 @@
-### Hi I am Deepa Thomas👋
+### Hi, I am Deepa Thomas👋
 
 *I am Indian* 
 
