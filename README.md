@@ -1,8 +1,8 @@
 ### Hi, I am Deepa Thomas👋
 
-* I am Indian 
+*I am Indian 
 
-* I am currently living in Brussels
+*I am currently living in Brussels
 
 #### I have master degree in computer application
 
