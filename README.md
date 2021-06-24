@@ -9,7 +9,7 @@
 - 🔭 I’m a student at HackYourFuture
 - 🌱 I’m currently learning and updating the skills in software development
 - 👯 I am passionate about learning technologies
-- :computer: I worked as a .Net Developer 
+- :computer: I worked as a .Net Developer   
 
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/deepa-thomas-8b1aa670/)
