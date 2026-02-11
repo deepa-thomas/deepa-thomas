@@ -2,7 +2,7 @@
 
 *I am Indian* 
 
-*I am currently living in Brussels*
+*I am currently living in Spain*
 
 #### I have master degree in computer application
 
