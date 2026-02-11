@@ -6,7 +6,6 @@
 
 #### I have master degree in computer application
 
-- 🔭 I am a student at HackYourFuture
 - 🌱 I am currently learning and updating the skills in software development
 - 👯 I am passionate about learning technologies
 - :computer: I worked as a .Net Developer   
